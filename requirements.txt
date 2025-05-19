@@ -1,0 +1,7 @@
+SpeechRecognition==3.10.0
+pydub==0.25.1
+PyAudio==0.2.13
+PyQt5==5.15.11
+mutagen>=1.45.1
+baidu-aip>=4.16.0
+# Tkinter is a part of the Python standard library, no need to install separately 
